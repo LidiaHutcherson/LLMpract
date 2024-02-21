@@ -1,0 +1,94 @@
+nissan_cars = """
+
+Nissan Motor Co. Ltd. is a Japanese multinational automobile manufacturer headquartered in Yokohama, Kanagawa, Japan. The company sells its vehicles under the Nissan and Infiniti brands, and formerly the Datsun brand, with in-house performance tuning products (including cars) under the Nismo and Autech brands. The company traces back to the beginnings of the 20th century, with the Nissan zaibatsu, now called Nissan Group.
+
+Since 1999, Nissan has been part of the Renault–Nissan–Mitsubishi Alliance (Mitsubishi joining in 2016), a partnership between Nissan and Mitsubishi Motors of Japan, with Renault of France. As of November 2023, Renault holds a 15% voting stake in Nissan, while Nissan holds the same stake in Renault.[7] Since October 2016 Nissan holds a 34% controlling stake in Mitsubishi Motors.[8]
+
+In 2017, Nissan was the sixth largest automaker in the world, after Toyota, Volkswagen Group, Hyundai Motor Group, General Motors and Ford.[9] In 2014, Nissan was the largest car manufacturer in North America.[10] With a revenue of $78 billion in 2022, Nissan was the 9th largest automobile maker in the world, as well as being the leading Japanese brand in China, Russia and Mexico.[11] As of April 2018, Nissan was the world's largest electric vehicle (EV) manufacturer, with global sales of more than 320,000 all-electric vehicles.[12] The top-selling vehicle of the car-maker's fully-electric lineup is the Nissan LEAF, the No. 2 top-selling electric car globally, just behind the Tesla Model 3.[13]
+
+
+Automotive products
+
+Nissan has produced an extensive range of mainstream cars and trucks, initially for domestic consumption but exported around the world since the 1950s.
+
+It also produced several memorable sports cars, including the Datsun Fairlady 1500, 1600 and 2000 Roadsters, the Z-car, an affordable sports car originally introduced in 1969; and the GT-R, a powerful all-wheel-drive sports coupe.
+
+In 1985, Nissan created a tuning division, Nismo, for competition and performance development of such cars. One of Nismo's latest models is the 370Z Nismo.
+
+Nissan also sells a range of kei cars, mainly as a joint venture with other Japanese manufacturers like Suzuki or Mitsubishi. Until 2013, Nissan rebadged kei cars built by other manufacturers. Beginning in 2013, Nissan and Mitsubishi shared the development of the Nissan DAYZ / Mitsubishi eK Wagon series.[99] Nissan also has shared model development of Japanese domestic cars with other manufacturers, particularly Mazda, Subaru, Suzuki and Isuzu.
+
+In China, Nissan produces cars in association with the Dongfeng Motor Group including the 2006 Nissan Livina Geniss, the first in a range of a new worldwide family of medium-sized cars.
+
+In 2010, Nissan created another tuning division, IPL, this time for their premium/luxury brand Infiniti.
+
+In 2011, after Nissan released the Nissan NV-Series in the United States, Canada, and Mexico, Nissan created a commercial sub-brand called Nissan Commercial Vehicles which focuses on commercial vans, pickup trucks, and fleet vehicles for the US, Canadian, and Mexican Markets.[109]
+
+In 2013, Nissan launched the Qashqai SUV in South Africa, along with their new motorsport Qashqai Car Games.[when?] It is the same year when the Datsun brand was relaunched by Nissan after a 27-year hiatus.[110]
+
+Nissan launched their Nissan Intelligent Mobility vision in 2016 by revealing the IDS Concept at the 2016 Geneva Motor Show.[111] Most Nissan vehicles like the Dayz, Rogue and Leaf are equipped with Nissan Intelligent Mobility technology.
+
+In 2018, Nissan launched the sixth-generation Altima at the 2018 New York Auto Show.[112]
+
+Japan
+
+
+Nissan Red and Blue Stage dealership Nagano (2009)
+As of 2007 in Japan, Nissan sells its products with internationally recognized "Nissan" signage, using a chrome circle with "Nissan" across the front.
+
+Previously, Nissan used two dealership names called "Nissan Blue Stage" (ja:日産・ブルーステージ, Nissan Burū Sutēji), "Nissan Red Stage" (ja:日産・レッドステージ, Nissan Reddo Sutēji), and "Nissan Red and Blue Stage" (ja:日産・レッド&ブルーステージ, Nissan Reddo & Burū Sutēji), established in 1999 after forming an alliance with Renault. Renault also exported cars to Japan and were available at "Nissan Red Stage" locations, and are still available at Nissan Japanese dealerships.
+
+Nissan Red Stage was the result of combining an older sales channel of dealerships under the names "Nissan Prince Store" (ja:日産・プリンス店, Nissan Purinsu-ten), established in 1966 after the merger of Prince Motors by Nissan, which sold the Nissan Skyline. "Nissan Satio Store" (日産・サティオ店, Nissan Satio-ten) sold cars developed from the Nissan Sunny at its introduction in 1966. The word "satio" is Latin, which means ample or sufficient. "Nissan Cherry Store" (日産・チェリー店, Nissan Cherī-ten) was briefly known previously as "Nissan Cony Store" when they assumed operations of a small kei manufacturer called Aichi Machine Industry Co., Ltd. (愛知機械工業) who manufactured the "Cony", "Guppy" and "Giant" brand of kei cars and trucks until 1970, when the network was renamed for the Nissan Cherry.[113]
+
+Nissan Blue Stage was the result of combining older sales channels, called "Nissan Store" (ja:日産店, Nissan Mise) in 1955, then renamed "Nissan Bluebird Store" in 1966, selling Nissan's original post-war products called the Datsun Bluebird, Datsun Sports, Datsun Truck, Datsun Cablight, Datsun Cabstar, Nissan Junior and the Nissan Patrol. "Nissan Motor Store" (日産・モーター店, Nissan Mōtā-ten) was originally called "Nissan Cedric Store" when the Nissan Cedric was introduced in 1960, then renamed "Nissan Motor Store" in 1965 and offered luxury sedans like the Nissan President and the former Prince Motor Company developed Nissan Laurel. In 1970, Nissan also set up a separate sales chain which sold used cars including auctions, called Nissan U-Cars (ja:日産ユーズドカーセンター, Nissan Yūzudo Kā Sentā), which they still maintain.
+
+In the early days of Nissan's dealership network, Japanese consumers were directed towards specific Nissan stores for cars that were of a specific size and pricepoint. Over time as sales progressed and the Japanese automotive industry became more prolific, vehicles that were dedicated to particular stores were badge engineered, given different names, and shared within the existing networks thereby selling the same platforms at different locations. The networks allowed Nissan to better compete with the network established earlier by Toyota at Japanese locations. Starting in 1960, another sales distribution channel was established that sold diesel products for commercial use, called Nissan Diesel until the diesel division was sold in 2007 to Volvo AB. To encourage retail sales, Nissan passenger vehicles that were installed with diesel engines, like the Cedric, were available at Nissan Diesel locations.
+
+All cars sold at Nissan Blue Stage (1999–2005):
+
+Fairlady Z, Serena, Cedric, Liberty, Cefiro, Laurel, President, Bluebird, Presage, Presea, Terrano, Leopard, Avenir, Nissan Truck, Safari, Hypermini, Caravan, Murano
+All cars sold at Nissan Store (later Nissan Bluebird Store, Nissan Exhibition), Nissan Motor Store, (1955–1999):
+
+Liberta Villa, Bluebird, C80, Caball, Datsun Junior, Datsun Truck, Cabstar, Caravan, Civilian, Patrol, Datsun Sports, Leopard, Maxima, Fairlady Z, Gazelle, Terrano, Avenir, Cefiro, Laurel, Laurel Spirit, Prairie, Cedric, President
+All cars sold at Nissan Red Stage (1999–2005):
+
+X-Trail. Teana, Cima, Sylphy, Crew, Skyline, Civilian, Silvia, Tino, Gloria, Pulsar, Sunny, R'nessa, Rasheen, Bassara, Primera, Mistral, Stagea, ADvan, Cube, Largo, Vanette, Clipper, Homy, Elgrand, Safari, Wingroad, Atlas, Murano, Renault Twingo, Renault Symbol, Renault Clio, Renault Mégane, Renault Kangoo
+All cars sold at Nissan Prince Store, Nissan Satio Store, Nissan Cherry Store (1966–1999):
+
+Cima, Gloria, Skyline, Primera, Auster, Stanza, Violet, Pulsar, Pulsar EXA, NX, Langley, Volkswagen Santana, Volkswagen Passat, 180SX, Safari, Mistral, Elgrand, Homy, Bassara, Largo, Serena, Stagea, Wingroad, Expert, AD van, Vanette, Clipper, Atlas, Homer (cabover truck), Cherry, Sunny, Lucino, Cherry Vanette, Be-1, Pao, Figaro, S-Cargo
+Nissan has classified several vehicles as "premium" and select dealerships offer the "Nissan Premium Factory" catalog. Vehicles in this category are:
+
+Skyline, Fuga, Cima, Fairlady Z, Murano, and the Elgrand.[114]
+Trucks
+Nissan Cabstar
+Main article: Nissan Cabstar
+Nissan Cabstar (日産・キャブスター Nissan Kyabusutā) is the name used in Japan for two lines of pickup trucks and light commercial vehicles sold by Nissan and built by UD Nissan Diesel, a Volvo AB company and by Renault-Nissan Alliance for the European market. The name originated with the 1968 Datsun Cabstar, but this was gradually changed over to "Nissan" badging in the early 1980s. The lighter range (1-1.5 tons) replaced the earlier Cabstar and Homer, while the heavier Caball and Clipper were replaced by the 2–4 ton range Atlas (日産・アトラス Nissan Atorasu). The nameplate was first introduced in December 1981. The Cabstar is known also as the Nissan Cabstar, Renault Maxity and Samsung SV110 depending on the location. The range has been sold across the world. It shares its platform with the Nissan Caravan.
+
+Nissan Titan
+Main article: Nissan Titan
+
+2019 Nissan Titan XD Pro-4X
+The Nissan Titan was introduced in 2004, as a full-size pickup truck produced for the North American market, the truck shares the stretched Nissan F-Alpha platform with the Nissan Armada and Infiniti QX56 SUVs. It was listed by Edmunds.com as the best full-size truck.[115][116] The second-generation Titan was revealed at the 2015 North American International Auto Show as a 2016 model year vehicle.
+
+Electric vehicles
+Main articles: Nissan electric vehicles and Nissan Leaf
+See also: Renault–Nissan Alliance zero-emission vehicles
+
+2018 Nissan Leaf at an electric charging station
+Nissan introduced its first battery electric vehicle, the Nissan Altra at the Los Angeles International Auto Show on 29 December 1997.[117] Unveiled in 2009, the EV-11 prototype electric car was based on the Nissan Tiida (Versa in North America), with the conventional gasoline engine replaced with an all-electric drivetrain.[118]
+
+In 2010, Nissan introduced the first-generation LEAF as the first series produced, all-electric vehicle launched globally.[119] As of March 2014, the Nissan Leaf was the world's best selling highway-capable all-electric car ever.[120][121] Global sales totaled 100,000 Leafs by mid January 2014, representing a 45% market share of worldwide pure electric vehicles sold since 2010.[120] Global Leaf sales passed the 200,000 unit milestone in December 2015, and the Leaf continued ranking as the all-time best selling all-electric car.[122][123]
+
+Nissan's second all-electric vehicle, the Nissan e-NV200, was announced in November 2013.[124] Series production at the Nissan Plan in Barcelona, Spain, began on 7 May 2014.[125] The e-NV200 commercial van is based on the Nissan Leaf. Nissan plans to launch two additional battery electric vehicles by March 2017.[126]
+
+In June 2016, Nissan announced it will introduce its first range extender car in Japan before March 2017. The series plug-in hybrid will use a new hybrid system, dubbed e-Power, which debuted with the Nissan Gripz concept crossover showcased at the September 2015 Frankfurt Auto Show.[127] As of August 2016, Nissan electric vehicles were sold in 48 world markets.[128] Nissan global electric vehicle sales passed 275,000 units in December 2016.[12]
+
+In 2018 Nissan sold its battery unit AESC to Envision in order to focus on the production of vehicles.[129][130][131] The second-generation Leaf was launched by Nissan in Japan in 2018. By December 2020, 10 years after its introduction, cumulative global deliveries had reached 500,000 Leaf cars.[132]
+
+In February 2023, Nissan announced its intent to produce electric vehicles with solid-state batteries by 2028.[133] In November 2023, Nissan announced its intention to build electric versions of the Qashqai and Juke at its plant in Britain.[134]
+
+Autonomous cars
+
+Nissan autonomous car prototype technology was fitted on a Nissan Leaf all-electric car.
+In August 2013 Nissan announced its plans to launch several driverless cars by 2020. The company is building a dedicated autonomous driving proving ground in Japan, to be completed in 2014. Nissan installed its autonomous car technology in a Nissan Leaf all-electric car for demonstration purposes. The car was demonstrated at Nissan 360 test drive event held in California in August 2013.[135][136] In September 2013, the Leaf fitted with the prototype Advanced Driver Assistance System was granted a license plate that allows it to drive on Japanese public roads. The testing car will be used by Nissan engineers to evaluate how its in-house autonomous driving software performs in the real world. Time spent on public roads will help refine the car's software for fully automated driving.[137] The autonomous Leaf was demonstrated on public roads for the first time at a media event held in Japan in November 2013. The Leaf drove on the Sagami Expressway in Kanagawa Prefecture, near Tokyo. Nissan vice chairman Toshiyuki Shiga and the prefecture's governor, Yuji Kuroiwa, rode in the car during the test.[138][139]
+
+"""
