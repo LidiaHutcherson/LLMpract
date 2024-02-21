@@ -1,0 +1,107 @@
+acura_cars = """
+
+Acura is the luxury and performance division of Japanese automaker Honda,[1] based primarily in North America.[2] The brand was launched on March 27, 1986, marketing luxury and performance automobiles. Acura sells cars in the United States, Canada, Mexico, Panama, and Kuwait.[3] The company has also previously sold cars in Mainland China, Hong Kong, Russia, and Ukraine.[4][5] Plans to introduce Acura to the Japanese domestic market in the late 2000s did not eventuate due to the financial crisis of 2007–2008.[6]
+
+Acura was the first luxury division established by a Japanese automaker.[7] The creation of Acura coincided with the introduction of a JDM Honda dealership sales channel, called Honda Clio, which sold luxury vehicles, joining previously established Honda Verno, followed by Honda Primo the following year. In its first few years of existence, Acura was among the best-selling luxury marques in the US, outselling established brands such as BMW and Mercedes-Benz.[7] Though sales were down in the mid-to-late 1990s, the brand experienced a revival in the early 2000s, due to drastic redesigns and the introductions of new models.[7][8]
+
+In the late 1980s, the success of the company's first flagship vehicle, the Legend, inspired fellow Japanese automakers Toyota and Nissan to launch their own luxury brands, Lexus and Infiniti, respectively. The 1990 launch of the NSX, a mid-engine exotic sports car, offered a reliable and practical alternative to exotic European sports cars, and introduced Honda's VTEC variable valve timing system to the North American market. The 1993 Legend coupé featured Acura's first use of a six-speed manual transmission mated to a Type II engine. In the late 1990s, Acura produced a Type R version of its compact Integra, which featured a reduced curb weight, a stiffer and lower suspension, and a high-output VTEC engine.
+
+In the early 2000s, Acura introduced new models, including the company's first all-original SUV, the MDX, and two models which replaced the Integra coupé and sedan, the RSX and TSX, respectively. Type-S versions of the RSX, CL, and TL were added to the brand's lineup during that decade. Acura's 2005 RL flagship introduced SH-AWD, a torque-vectoring all-wheel drive system. The 2007 RDX, a crossover SUV, featured the first North American use of a turbocharged Honda engine. A second generation NSX was launched in 2016 and features a twin-turbocharged mid-engine, a nine-speed dual-clutch transmission, and Sport Hybrid SH-AWD.
+
+1980s
+The brand was created around the same time as Japanese rivals Nissan and Toyota developed their respective Infiniti and Lexus premium brands. The Japanese government imposed voluntary export restraints for the U.S. market, so it was more profitable for Japanese automakers to export more expensive cars to the U.S.
+
+
+First generation Acura Legend coupe
+Following a decade of research, Honda opened 60 new dealerships in North America by 1986, to support its Acura automobile division. Acura was the first Japanese luxury brand, introduced under the slogan, "Acura. Precision Crafted Automobiles." Its initial offering consisted of two models: the executive class Legend and the compact class Integra, available as a five-door and three-door hatchback. The Legend was the result of Project XX, a joint venture Honda entered into with the UK's Austin Rover Group. It was mechanically related to the Rover 800 series, while the Integra was an improvement of the Honda Quint hatchback.[12]
+
+The success of these models, particularly the Legend, led to competing Japanese luxury brand ventures (Toyota's Lexus that began development in 1983 as the F1 project, and Nissan's Infiniti who began development in 1985 by revising their Japan-only flagship Nissan President; in the late 1990s Mazda planned but never launched its own Amati luxury division). The goal of the Legend was to compete with rivals Toyota Crown and the Nissan Cedric and Gloria, but due to its 1986 introduction worldwide, Toyota, Nissan and other companies like Lincoln took notice of the markets reaction to the Legend and later the Vigor and offered vehicles that addressed the executive size car. Toyota introduced the Lexus ES, Nissan introduced the Infiniti J30 and Ford utilized the Taurus platform and named their new sedan the Lincoln Continental.
+
+
+First generation Acura Integra
+In 1987, Acura's first full year of sales, they sold 109,000 cars with the flagship Legend sedan accounting for 55,000 sales and the rest were of the smaller Integra. By 1990, Acura was selling 138,000 vehicles, including 54,000 Legends, compared to Mercedes-Benz's 78,000 cars and 64,000 each for BMW and Lexus.[7]
+
+1990s
+In 1990, five years after the debut of the Legend and Integra, Acura introduced the NSX, a midship V6 powered, rear-wheel-drive sports car. The NSX, an acronym for "New Sports eXperimental", was billed as the first Japanese car capable of competing with Ferrari and Porsche. This vehicle served as an "image car" for both the Honda and Acura brands, heralding the introduction of Honda's VTEC technology. The NSX was the world's first all-aluminum production car, and was also marketed and viewed by some as the "everyday supercar" thanks in part to its ease of use, quality and reliability, traits that were unheard of in the supercar segment at the time.[13] With the release of the NSX, Acura introduced the "A-badge", a stylized pair of calipers—a tool used for exacting measurements to imply that Acura vehicles are built to precise and demanding standards.
+
+
+The NSX was sold under the Acura brand in certain regions
+Despite a strong start in market acceptance for the Acura brand, sales suffered in the mid-to-late 1990s. Some critics attributed this decline in part to less inspiring designs, which were re-branded Japanese-spec Hondas, such as the Acura Vigor in 1992. Additionally, during this time Acura switched to an alphanumeric nomenclature formula, dropping the Legend, Vigor and Integra titles, following the lead of the NSX sportscar. The 1996 3.5 RL, which replaced the popular Legend, and the Vigor became the 2.5 TL and 3.2 TL, and was regarded by many as the epitome of this problem, namely because the alphanumeric designations were more anonymous than the former Legend, Vigor and Integra titles, which had grown into their own cult followings.[14]
+
+The parent company, Honda, was also feeling the results of the decline of the Japanese economy, due to the Japanese asset price bubble that took place during the 1990s and into the 2000s. This period is known in Japan as The Lost Decade.
+
+
+Acura Integra Type R
+During this time, the NSX also lost sales as Acura made few changes from its original 1990 trim. A year later, the Integra sedan was withdrawn from the Canadian market, replaced by the market-exclusive Acura 1.6 EL, a rebadged Honda Civic/Domani. The Integra sedan continued to be sold in the United States until 2001 (in name only, the model it was replaced with, the RSX, was simply a rebadged left-hand-drive version of the JDM DC5 Honda Integra).
+
+Despite these letdowns, Acura gained prominence in the 1990s with a young group of customers: "tuner" enthusiasts. Parent company Honda's reputation with this demographic as a maker of "easy-to-tune" and "rev-happy" engines rubbed off onto Acura, and the Integra became a popular tuner car.[15]
+
+2000–2003
+
+The second generation Acura TL
+Beginning around the year 2000, Acura experienced a rebirth which was catalyzed by the introduction of several redesigned models. The first of these models was the 1999 Acura 3.2 TL, an upscale sedan. Critics suggested that although 3.2 TL did not outdo its competition in any one area of luxury cars, it offered a well-rounded blend of sportiness and luxury.[16] These characteristics, combined with the TL's competitive price, proved very popular with consumers. Subsequent Acura models have followed a similar philosophy of offering much standard equipment and few options.
+
+
+First generation Acura MDX
+Another refreshed Acura introduced in the early 2000s was the MDX, a popular three-row crossover SUV based on the Honda Odyssey minivan. The MDX replaced the slow-selling SLX, which was little more than a rebadged Isuzu Trooper. The MDX was a car-like crossover SUV with limited off-road capability that catered to the demands of the luxury SUV market. It was given top honors by Car and Driver in its first comparison test against seven other SUVs.[17] Other cars in Acura's line-up during this time included the 3.2 TL, 3.2 CL, RSX (formerly the Integra hatchback), and the NSX. By the late 2000s, Acura had dropped the inclusion of engine displacement numbers in its vehicle designations, retaining a simpler, two- or three-letter designation instead (e.g. 3.5 RL became RL). The 1999-2003 TL have been plagued by transmission and other problems.[18]
+
+In 2001, a new coupe, badged as the RSX was introduced to the Acura line up. It was a replacement for the outgoing Integra. The RSX is a rebadged Honda Integra (DC5) from the Japanese market. As a result, the RSX is technically a new generation of the outgoing Integra. Much like the Integra, the RSX was a hit in the tuner market. However, at the end of 2006, the RSX was taken out of the Acura line up, subsequently in the Japanese market as well. It is not known why the RSX did not continue to be sold as the Integra in Japan, however, the reason that Acura gave for the cancellation of the RSX is that Acura wishes to move up in the luxury brand, thus cannot sell a car that is mostly driven by teenagers.
+
+2004–2006
+A new TL was introduced for the 2004 model year, with a 270 hp (200 kW) V6[19] measured by the then-current SAE standards. The new TL increased sales dramatically to 70,943 American units in 2005.
+
+Also around the same time the Acura TSX was introduced. It was essentially a re-badged European and Japanese market Honda Accord loaded with features. This model became the only 4-cylinder sedan in Acura's line-up (with the exception of the Canadian market Acura CSX, which replaced the EL in 2006).
+
+
+2004-2006 Acura TL
+
+2005 Acura RL
+
+2006 Acura CSX
+
+2007 Acura RDX
+In 2005, a new RL was introduced with a 300 hp (220 kW) V6, improved styling, and Super Handling All-Wheel Drive (SH-AWD), a system capable of sending almost all of the RL's power to just one wheel in a turn. The second-generation RL appeared on Car and Driver's Ten Best list for 2005, and also garnered an CNET.com "Editor's Choice" When the RL was introduced, it did not perceive Acura as being on par with its German rivals and expected more value from the Japanese marque. The damage from Honda Japan's alleged hubris was done, even though Honda Canada has since reduced the RL's price.[20]
+
+Acura's new models—particularly the TL and TSX—were well received by the motoring press and became Acura's top selling vehicles by then. The TSX was on Car and Driver's Ten Best list from 2004 to 2006.
+
+In 2006 Acura introduced a small SUV which was based on its own unique unibody chassis called the RDX with models becoming available to U.S. consumers in August 2006. It is powered by a turbocharged 240-hp 4-cylinder engine and, like the RL, uses Acura's SH-AWD system. A completely redesigned MDX became available in the fall of 2006 with a 300 hp (220 kW) V6 engine and Super Handling All-Wheel Drive.
+
+2007–2013
+
+First generation Acura TSX
+Acura re-introduced the TL Type-S for the 2007 model year. 2009 marked the all new TL and TSX models as well as a mid-year model update for the RL; all three made their debuts in the 2008 calendar year. Acura planned on redesigning the RL by 2011 as well as announced the creation of a brand new luxury crossover vehicle called the ZDX, previewed by the concept of the same name.
+
+The ZDX was the first Acura designed in Acura's design studio located at Torrance in Southern California. The ZDX was designed by Michelle Christensen and based on the Acura MDX using that vehicles 3.7 litre V6 engine (300 bhp) and SH-AWD system. It is also the first Acura to be completely built in North America. The production model of the ZDX made its debut in the Orange County Auto Show in Southern California on 15 October 2009. The concept behind the ZDX is that it is a "four door coupe," and the design emphasis of the body of the car is like a "pulled back slingshot." Another prominent design aspect of the ZDX is the wide rear shoulders above the rear wheels. The ZDX went on sale in December 2009.
+
+
+2012 Acura TL
+Acura initially had plans for the third generation of RL to be a rear wheel drive V8 sedan for its flagship, but shelved the plans in the wake of the 2008 economic downturn.[21]
+
+Acura announced new TSX wagon in the 2010 New York Auto Show and went on sale in Fall of 2010. The wagon version of the TSX is based on the wagon version of the Euro-spec Honda Accord which has been in the European market for some time. However, Acura did not announce any plans for the third-generation RL.
+
+For the 2010 model year the MDX models received some slight exterior changes and increased equipment levels. Mechanically the engine remained unchanged but the transmission was updated from the previous 5-speeds to 6-speeds including steering column mounted shift override paddles. This new transmission was shared with the ZDX.
+
+In 2012, Acura introduced a new model called the ILX which replaced the Acura CSX in Canada and is based on the Honda Civic platform. The ILX was initially offered with three powertrain options: a 1.5L four cylinder electric hybrid shared with the North American Honda Civic Hybrid paired to a CVT transmission, a 2.0L 4 cylinder R20A1 paired to a 5 speed automatic transmission, or a 2.4L K24Z7 paired with a 6 speed manual transmission equipped with a limited slip differential identical to the 2013-2015 Honda Civic Si. It also unveiled the Acura RLX Concept, a replacement for the RL sedan, at the New York International Auto Show. The ILX went on sale in May 2012 in the United States as a 2013 model.
+
+
+Third generation Acura MDX
+
+2016 Acura NSX
+Also in 2012, Acura "reinvented" another model, The RDX concept. For the new model, Acura dropped the 4 cylinder turbo for a 3.5L V6. When the official 2013 Acura RDX was released, it was relatively similar to the concept but had changes in wheels, taillights, and some other cosmetics. A lot of this Acura looks like its brother the ILX. The 2013 RDX doesn't have the SH-AWD system instead it has "AWD with intelligent control", similar to the CR-V's AWD system.
+
+In 2013, Acura showed a 2014 Concept of the MDX. Shortly after, it was released to the public. The MDX competes with the Lexus RX, Audi Q7, and many others.
+
+
+2019 Acura TLX PMC Edition
+In December 2013, at the Los Angeles Auto Show, Acura unveiled a Sport Hybrid SH-AWD version of the flagship RLX sedan. It has a 310-horsepower 3.5L V6 engine and a pair of electric motors (one for each axle) that generate a combined 377 horsepower through a new 7-speed dual clutch transmission. Acura technology firsts on the 2014 RLX Sport Hybrid SH-AWD also include an electronic gear selector that replaces the conventional, center console-mounted shift lever with an efficiently packaged push-button array allowing the driver to easily select the desired mode—Park, Drive and Reverse, as well as Sport and Normal driving modes. The new RLX Sport Hybrid will go on sale in mid-2014.
+
+2014–present
+In January 2014, at the Detroit Auto Show, Acura unveiled the all-new 2015 TLX sports sedan. This new vehicle replaced the soon to be discontinued TSX and TL sedans. The TLX in the 2.4-liter comes with Acura's all new eight-speed dual clutch DCT transmission. Meanwhile, the high-end 3.5-liter V6 model came with the new nine-speed transmission and Super-Handling All Wheel Drive (SH-AWD). The TLX went on sale in the Summer of 2014.
+
+In 2015, Acura redesigned the ILX for the 2016 model year. Now solely available with a 2.4L K24V7 engine and 8-speed dual clutch transmission (DCT) instead of the 2.0L R20A1 & 5-speed automatic transmission, 2.4L K24Z7 6 speed manual transmission and hybrid electric options. Added is the signature Acura Jewel Eye LED headlights, LED taillights, updated wheels, suspension modifications, bumper redesign, and new packages such as AcuraWatch Package (includes adaptive cruise control, collision mitigation, lane keeping assist system, road departure mitigation, and forward collision warning) and A-Spec (sportier appearance).
+
+Also redesigned is the 2016 RDX. Featured with the same 3.5L 6-speed automatic with some slight adjustments for efficiency and hp/torque boosts. The RDX gets the Acura Jewel Eye LED treatment as well. A new Advance Package is being offered with the inclusion of, parking sensors (front and rear), rain-sensing windshield wipers, auto-dimming side mirrors, remote start, ventilated seats, and foglights.
+
+In 2017, Acura made considerations on opening an Indian branch.[22]
+
+"""
